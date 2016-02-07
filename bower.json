@@ -1,0 +1,28 @@
+{
+  "name": "webApp",
+  "description": "Start of a side Web App for maps",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "keywords": [
+    "webApp",
+    "maps"
+  ],
+  "authors": [
+    "Laszlo",
+    "Dawid"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
